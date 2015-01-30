@@ -1,6 +1,3 @@
-# Data-Viz-2
-Project 1
-
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
